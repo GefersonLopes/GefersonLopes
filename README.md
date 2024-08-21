@@ -22,11 +22,6 @@
 
 ✉️ Contato: Gefersonjefreey@gmail.com
 
-
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JmMDBsczI1b2ZhdjJjNzhxcGQxbHpzNjdod3RydWJtcTRzcGxnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif"  />
-</div>
-
 ###
 
 <h1 align="left">LANGUAGES</h1>
