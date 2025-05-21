@@ -10,7 +10,7 @@
 ###
 
 
-💻 Desenvolvedor Full Stack Jr. com um toque de curiosidade e muita paixão por tecnologia! Adoro mergulhar em códigos e transformar ideias em soluções digitais criativas e eficientes.
+💻 Desenvolvedor. com um toque de curiosidade e muita paixão por tecnologia! Adoro mergulhar em códigos e transformar ideias em soluções digitais criativas e eficientes.
 
 🚀 Meu kit de ferramentas inclui JavaScript, React, Node.js, Python, Java, e até um pouco de Go! Estou sempre explorando novas tecnologias e aprimorando minhas habilidades para enfrentar qualquer desafio de programação.
 
